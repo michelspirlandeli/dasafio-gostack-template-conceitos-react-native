@@ -6,9 +6,11 @@
   Desafio 04: Conceitos do React Native
 </h3>
 
-## Versão
+## Tecnologias
 
+React Native
 
+AXIOS - Para acessar a API do back-end.
 
 ## Instalação
 

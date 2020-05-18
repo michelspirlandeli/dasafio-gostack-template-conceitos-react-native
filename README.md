@@ -26,6 +26,6 @@ yarn start
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/michelspirlandeli/desafio-gostack-template-conceitos-react-native/blob/master/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/michelspirlandeli/dasafio-gostack-template-conceitos-react-native/blob/master/LICENSE) para mais detalhes.
 
 Feito com ♥ by Michel Spirlandeli :wave:
